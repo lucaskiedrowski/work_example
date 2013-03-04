@@ -37,7 +37,7 @@ public class Levels_Gui extends SimpleBaseGameActivity
 {
 
 	// ==========================================
-	// ==============CONSTANS====================
+	// ==============CONSTANTS===================
 	// ==========================================
 
 	private static final float CAMERA_WIDTH = 480;
