@@ -149,7 +149,7 @@ public class Levels_Gui extends SimpleBaseGameActivity
 		
 		/** 
 		 * @Int 	which_land - choosen land by user 		@read from Shared Preferences
-		 * @Int 	level_stars - collected stars by user 	@read from Database
+		 * @Int 	level_stars - collected stars by user 		@read from Database
 		 * @String 	level_state - locked/unlocked 			@read from Database
 		 */
 		int which_land =Start_Activity.getPref(getSharedPreferences(Start_Activity.FILE_WHICH_CLASS,0) ,Start_Activity.KEY_WHICH_LAND);
